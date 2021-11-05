@@ -79,6 +79,17 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. Put your answers underneath the questions:
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+
+react is a front end library that solves dom manipulation that makes reusable components to save time
+
 1. Describe component state.
+
+its a reusable way to pass and store data that you can use later in your code
+
 1. Describe props.
+
+a prop is a way to pass data in code
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+side effects are a way to pass data theat we dont know we are getting
